@@ -23,7 +23,7 @@ I’m currently learning SQL from scratch and using this repository to:
 ---
 
 ## 🛠️ Tools Used
-- **SQL Software:** MySQL Workbench / SQLite / PostgreSQL (whichever you use)  
+- **SQL Software:** MySQL Workbench 
 - **Learning Source:** [Data With Baraa - SQL Course](https://www.youtube.com/@DataWithBaraa)  
 - **Version Control:** Git & GitHub Desktop  
 
